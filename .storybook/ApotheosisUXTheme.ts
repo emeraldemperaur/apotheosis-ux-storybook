@@ -8,5 +8,5 @@ export default create({
   brandImage: '/me-devlogo-black.png', 
   brandTarget: '_blank',
   colorPrimary: '#800020',
-  colorSecondary: '#023020',
+  colorSecondary: '#800020',
 });
